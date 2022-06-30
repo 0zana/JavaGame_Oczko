@@ -1,0 +1,10 @@
+package oczko;
+
+public class Gra {
+
+	public static void main(String[] args) {
+		PrzebiegGry.start();
+
+	}
+
+}
